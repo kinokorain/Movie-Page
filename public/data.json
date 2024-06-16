@@ -1,0 +1,759 @@
+[
+    {
+        "id": 5647498,
+        "name": null,
+        "alternativeName": "Deadbolt",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "ужасы"
+            },
+            {
+                "name": "триллер"
+            }
+        ]
+    },
+    {
+        "id": 5515511,
+        "name": null,
+        "alternativeName": "Food, Inc. 2",
+        "enName": null,
+        "year": 2023,
+        "description": null,
+        "genres": [
+            {
+                "name": "документальный"
+            },
+            {
+                "name": "новости"
+            }
+        ]
+    },
+    {
+        "id": 5880848,
+        "name": "Курентзис: Utopia",
+        "alternativeName": "Teodor Currentzis – UTOPIA",
+        "enName": null,
+        "year": 2023,
+        "description": "Международный фестивальный оркестр Utopia, в котором принимают участие 116 музыкантов из 30 стран мира.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/2bc9660d-4664-41d6-a135-b0800d3946b8/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/2bc9660d-4664-41d6-a135-b0800d3946b8/x1000"
+        },
+        "genres": [
+            {
+                "name": "концерт"
+            }
+        ]
+    },
+    {
+        "id": 5611835,
+        "name": null,
+        "alternativeName": "You Shouldn't Have Let Me In",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "ужасы"
+            }
+        ]
+    },
+    {
+        "id": 5461627,
+        "name": "Неведомая Австралия",
+        "alternativeName": "Hidden Australia",
+        "enName": null,
+        "year": 2020,
+        "description": "Австралия знаменита своими морскими пляжами, однако вся внутренняя территория континента представляет собой «лоскутное одеяло» из контрастных природных зон: тропических лесов, гор, сухих равнин, обширных болот и засушливых пустынь.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/eb8e64a7-817d-41ab-8745-36da29f34b54/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/eb8e64a7-817d-41ab-8745-36da29f34b54/x1000"
+        },
+        "genres": [
+            {
+                "name": "реальное ТВ"
+            }
+        ]
+    },
+    {
+        "id": 5629310,
+        "name": "Подземелья Чикен Карри-9. Человек в железной маске",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2022,
+        "description": null,
+        "genres": [
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5626368,
+        "name": "Кто угодно, только не она",
+        "alternativeName": "Todas menos tú",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/4486454/3c3f27ec-c6c8-409a-897c-2e88671c779c/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486454/3c3f27ec-c6c8-409a-897c-2e88671c779c/x1000"
+        },
+        "genres": [
+            {
+                "name": "мелодрама"
+            },
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5626375,
+        "name": "Любовь на кончике ножа",
+        "alternativeName": "Hades - Eine (fast) wahre Geschichte aus der Unterwelt",
+        "enName": null,
+        "year": 2023,
+        "description": null,
+        "genres": [
+            {
+                "name": "боевик"
+            }
+        ]
+    },
+    {
+        "id": 5647638,
+        "name": "Хозяюшки",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2024,
+        "description": "Хозяюшками в «Яндексе» называют отдел, отвечающий за кафетерии, зоны отдыха и многое другое, что составляет знаменитую домашнюю атмосферу офисов компании. Чего только нет в этих офисных кофе-пойнтах и буфетах — и появляется это все по расписанию, в срок, в сотнях зданий в десятках городов. В фильме хозяюшки рассказывают о том, как проходят их дни и как устроена их заботливая работа.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/4001c736-3ad2-4527-ae78-3499d236735c/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/4001c736-3ad2-4527-ae78-3499d236735c/x1000"
+        },
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "документальный"
+            }
+        ]
+    },
+    {
+        "id": 5647637,
+        "name": "de_Dacha",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2024,
+        "description": "Лучшие команды мира собрались в Дубае на заключительном LAN-турнире года по CS2 — они приехали, чтобы встретиться с давними соперниками, заявить о себе или остаться в статусе лидера. Чемпионы мейджоров FalleN и Snax, а также nafany, KaiR0N- и chopper рассказывают о том, за что любят игру, как справляются с поражениями и что заставляет их из раза в раз выходить на новый раунд. Индустрия киберспорта еще недавно была сообществом энтузиастов, но сегодня она полна букмекерских денег и серьезных контрактов.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10703859/de8e9f84-4472-4b39-a7bb-48ab006ffe1d/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703859/de8e9f84-4472-4b39-a7bb-48ab006ffe1d/x1000"
+        },
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "документальный"
+            }
+        ]
+    },
+    {
+        "id": 5639022,
+        "name": "Край ночи",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2024,
+        "description": "В 2020 году режиссер Андрей Натоцинский приехал в Сухум, и город встретил его темнотой: ни на центральной площади, ни вокруг не горели фонари. Узнав, что веерные отключения электричества связывают с криптомайнерами, которых в Абхазию привлекла дешевая электроэнергия, Натоцинский вернулся со съемочной группой. Чтобы разобраться, как устроен контраст между активной добычей криптовалюты и общей разрухой, обрамленной дикими пейзажами, за три года он провел четыре съемочных экспедиции. Однако «Край ночи» — это фильм не о майнерах, вернее, не столько о них, сколько вообще о регионе, который до сих пор не оправился от войны 92-93 годов, последовавших конфликтов и экономической катастрофы. Погружаясь в местную историю, разговаривая с самыми разными людьми, наблюдая приход и уход майнеров, Натоцинский старается создать объективную — насколько это возможно — картину жизни в Абхазии. Режиссер фокусируется на том, чтобы задавать вопросы, отдавая право делать заявления своим героям, и хотя его фильм снят нарочито живописно, чувства, которые он оставляет, вряд ли будут легкими.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10809116/66950c96-be7d-4d5c-b92f-a0aa5c4219fa/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10809116/66950c96-be7d-4d5c-b92f-a0aa5c4219fa/x1000"
+        }
+    },
+    {
+        "id": 5639025,
+        "name": "Точно не керамика",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2023,
+        "description": "Завод «Дымов Керамика» и развернувшаяся вокруг него культурная жизнь стали неотъемлемой частью Суздаля — многие туристы удивляются тому, что еще двадцать лет назад ничего этого не было. Авторы снимают сооснователей завода Вадима Дымова и Евгению Зеленскую в мастерских и в быту и расспрашивают их, как они пришли к предпринимательству, чем вдохновляются и каково быть партнерами в бизнесе и в жизни. Из этих разговоров, очень живых, простых и открытых, складывается портрет людей, настолько увлеченных своим делом, что становится ясно, откуда взялась та самая атмосфера места, вовлекающего в свою орбиту так много людей и меняющего атмосферу города.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/28f32651-2f45-4154-804d-70162f494feb/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/28f32651-2f45-4154-804d-70162f494feb/x1000"
+        },
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5639023,
+        "name": "Сады всегда на следующий год",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2023,
+        "description": "Вы могли слышать о проекте «Сад им.» художника и куратора Артема Филатова — открытом мемориальном саде при частном крематории в Нижнем Новгороде. Туда можно прийти ногами, чтобы послушать звуковую инсталляцию или побыть в пространстве тихой рефлексии, а можно посетить это место виртуально — и посвятить одно из растений в саду кому-то из ушедших близких. Артем тесно связывает свою практику с историей Нижнего Новгорода, но при этом ставит вопросы, выходящие за рамки одного города и вообще нашего времени — он стремится создавать искусство, которое говорит о жизни и смерти и устремлено в будущее, по-новому раскрываясь для следующих поколений. В фильме Филатов рассказывает о «Саде» и других своих работах, а также об идеях, стоящих за ними.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/50828dc0-7983-4d1e-bde6-8e360a643243/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/50828dc0-7983-4d1e-bde6-8e360a643243/x1000"
+        },
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5639021,
+        "name": "4:30",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2023,
+        "description": "Незрячий пенсионер Илья планирует пробежать марафон за среднее для зрячих атлетов время — четыре с половиной часа. Молодой тренер Дима помогает ему правильно подойти к делу: выдержать темп, рассчитать нагрузку, продержаться до финиша. За 15 минут, которые длится фильм, мы увидим весь диапазон эмоций между ними, от раздражения до искренней поддержки, а также узнаем многое об Илье: к чему он стремится, когда перестал видеть, что в жизни он считает важным, а что — чепухой. Режиссер снимает героев на зернистую черно-белую пленку, перемежая пробежки и разговоры сюрреалистичными, фантазийными портретными кадрами, отделяет диалог от картинки и прошивают фильм пульсирующей звуковой дорожкой, пересобирает материал как коллаж, создавая небанальную и удивительно цельную эстетику. Получается кино, в котором гармонично сложилась редкая комбинация: чувство стиля и чувство юмора, история и портрет, визуальная красота и абсолютно живая фактура.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10703959/b6dc03c7-9827-4d61-9611-292eb664b737/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703959/b6dc03c7-9827-4d61-9611-292eb664b737/x1000"
+        },
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629414,
+        "name": "Хотя бы в кино 3",
+        "alternativeName": "Хотя бы кинода 3",
+        "enName": null,
+        "year": 2024,
+        "description": "После освобождения из тюрьмы Кайрат сразу бросается на поиски способа спасти свою больную мать. Диагноз врачей оказывается безжалостным: чтобы спасти жизнь матери, ему необходимо достать дорогостоящее медицинское оборудование из Китая и лекарства на миллион долларов. Без денег и постоянной работы Кайрат обращается за помощью к бывшим олигархам, которые также находятся в тюрьме. Они соглашаются помочь, но с условием: Кайрат должен доставить грузовик зерна в Китай. Встав перед выбором, Кайрат соглашается.\nВ пути через границу Китая Кайрата и его водителя останавливает и нападает неизвестная преступная группа. Они оба оказываются без сознания. Когда Кайрат приходит в себя, он обнаруживает себя в китайской «Школе Кунг-фу». Местный житель объясняет ему, что спас его и водителя, потому что их машина загорелась. Кайрат тут же связывается с олигархами в Казахстане, чтобы сообщить о произошедшем. Они признают, что в пропавшем грузе находилось ценное золото, и требуют его найти, угрожая, что иначе он больше не увидит свою мать. Теперь Кайрату предстоит раскрыть загадку похищения груза. Ему помогают учителя и ученики школы кунг-фу.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/784e5d41-13fc-49cb-aed2-438f847f2d01/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/784e5d41-13fc-49cb-aed2-438f847f2d01/x1000"
+        },
+        "genres": [
+            {
+                "name": "комедия"
+            },
+            {
+                "name": "приключения"
+            }
+        ]
+    },
+    {
+        "id": 5609984,
+        "name": "Молчание добычи",
+        "alternativeName": "Silence of the Prey",
+        "enName": null,
+        "year": 2024,
+        "description": "В отчаянной попытке обеспечить будущее своему ребенку иммигрантка без документов устраивается на работу сиделкой к пожилому мужчине, не подозревая, что он скрывает жуткую тайну.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/12840516-f584-4c34-8f7e-225de40e986c/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/12840516-f584-4c34-8f7e-225de40e986c/x1000"
+        },
+        "genres": [
+            {
+                "name": "ужасы"
+            }
+        ]
+    },
+    {
+        "id": 5461684,
+        "name": "Неведомая Япония",
+        "alternativeName": "Hidden Japan",
+        "enName": null,
+        "year": 2020,
+        "description": "Культура Японии поражает воображение: от праздника цветения сакуры до ультрасовременных городов. Но дикая природа Японии не менее удивительна. На 6852 островах, входящих в состав Японии и располагающихся в разных климатических зонах, обитает более 130 видов млекопитающих и 600 видов птиц.",
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/de3029b3-3892-418e-9f92-92fa691bf573/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/de3029b3-3892-418e-9f92-92fa691bf573/x1000"
+        },
+        "genres": [
+            {
+                "name": "реальное ТВ"
+            }
+        ]
+    },
+    {
+        "id": 5607933,
+        "name": "Подземелья Чикен Карри-27. Достучаться до небес",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "комедия"
+            }
+        ],
+        "poster": {
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/d61f9789-8a4f-4e4d-ba83-249c2a7e87d3/x1000",
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/d61f9789-8a4f-4e4d-ba83-249c2a7e87d3/orig"
+        }
+    },
+    {
+        "id": 5629973,
+        "name": null,
+        "alternativeName": "Rrugës",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5629978,
+        "name": null,
+        "alternativeName": "Across the Waters",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629979,
+        "name": null,
+        "alternativeName": "Volcelest",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629960,
+        "name": null,
+        "alternativeName": "Gazer",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "триллер"
+            },
+            {
+                "name": "детектив"
+            }
+        ]
+    },
+    {
+        "id": 5629969,
+        "name": null,
+        "alternativeName": "Amarela",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629972,
+        "name": null,
+        "alternativeName": "Les belles cicatrices",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629971,
+        "name": null,
+        "alternativeName": "Sanki Yoxsan",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629970,
+        "name": null,
+        "alternativeName": "Perfectly a Strangeness",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5629961,
+        "name": null,
+        "alternativeName": "Sister Midnight",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "драма"
+            },
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5629957,
+        "name": null,
+        "alternativeName": "Niki",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "биография"
+            }
+        ]
+    },
+    {
+        "id": 5629958,
+        "name": null,
+        "alternativeName": "Les reines du drame",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "мелодрама"
+            },
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5629955,
+        "name": null,
+        "alternativeName": "Eephus",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "драма"
+            },
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5629956,
+        "name": null,
+        "alternativeName": "Les fantômes",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "триллер"
+            },
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5629954,
+        "name": null,
+        "alternativeName": "Blue Sun Palace",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5627754,
+        "name": "Дворняга",
+        "alternativeName": "Bai yi cang gou",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5627674,
+        "name": null,
+        "alternativeName": "Covjek koji nije mogao sutjeti",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5627532,
+        "name": null,
+        "alternativeName": "Simón de la montaña",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/cd1fdac5-c877-4227-9884-de09888683e6/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/cd1fdac5-c877-4227-9884-de09888683e6/x1000"
+        },
+        "genres": [
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5627356,
+        "name": null,
+        "alternativeName": "Julie Keeps Quiet",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/d7cdbc98-7529-4431-9c61-b08ab4715e4b/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/d7cdbc98-7529-4431-9c61-b08ab4715e4b/x1000"
+        },
+        "genres": [
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5627458,
+        "name": null,
+        "alternativeName": "Three Kilometres to the End of the World",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "триллер"
+            },
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5627256,
+        "name": null,
+        "alternativeName": "Mau por um momento",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "poster": {
+            "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/89ac3643-30e0-4f67-9675-29ba16a06ecc/orig",
+            "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/89ac3643-30e0-4f67-9675-29ba16a06ecc/x1000"
+        },
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630899,
+        "name": null,
+        "alternativeName": "Withered Blossoms",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630898,
+        "name": null,
+        "alternativeName": "The Deer's Tooth",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630896,
+        "name": null,
+        "alternativeName": "Mauvais coton",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630897,
+        "name": null,
+        "alternativeName": "Praeis",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5630894,
+        "name": null,
+        "alternativeName": "Elevación",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630895,
+        "name": null,
+        "alternativeName": "In spirito",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630891,
+        "name": null,
+        "alternativeName": "Plevel",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630892,
+        "name": null,
+        "alternativeName": "Terminal",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630889,
+        "name": null,
+        "alternativeName": "Forest of Echos",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630893,
+        "name": null,
+        "alternativeName": "Crow Man",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    },
+    {
+        "id": 5630890,
+        "name": null,
+        "alternativeName": "It's Not Time for Pop",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            },
+            {
+                "name": "драма"
+            }
+        ]
+    },
+    {
+        "id": 5630888,
+        "name": null,
+        "alternativeName": "Echoes",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "genres": [
+            {
+                "name": "короткометражка"
+            }
+        ]
+    }
+]
