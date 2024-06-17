@@ -5,9 +5,9 @@ type Movie = {
     alternativeName: string | null,
     year: number | null,
     description: string | null,
-    poster: {
+    poster?: {
         url: string | null,
-        previewUrl: string | null,
+        previewUrl: string | undefined,
     },
     genres: { name: string | null }[],
 

@@ -5,12 +5,13 @@ import Movie from '../Types'
 import data from "../../public/data.json"
 
 
+
 export default function MainPage() {
     const [page, setPage] = useState(1);
     const [currentMovies, setCurrentMovies] = useState<Movie[]>();
     useEffect(() => {
         async function getMovies() {
-            // const movieList = await fetch("Routes/data.json", {
+            // const movieList = await fetch("https://api.kinopoisk.dev/v1.4/movie?type=movie&page=1&limit=50&selectFields=id&selectFields=name&selectFields=enName&selectFields=alternativeName&selectFields=description&selectFields=year&selectFields=poster&selectFields=genres&selectFields=rating&selectFields=ratingMpaa&type=movie", {
             //     method: "GET",
             //     headers: {
             //         "X-API-KEY": "deleted"

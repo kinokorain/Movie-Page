@@ -1,11 +1,151 @@
 [
     {
+        "id": 5609795,
+        "name": null,
+        "alternativeName": "Sei nell'anima",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 6.3,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
+        "genres": [
+            {
+                "name": "драма"
+            },
+            {
+                "name": "биография"
+            },
+            {
+                "name": "музыка"
+            }
+        ]
+    },
+    {
+        "id": 5898245,
+        "name": null,
+        "alternativeName": "Shadow Land",
+        "enName": null,
+        "year": 2024,
+        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 3.4,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": "r",
+        "genres": [
+            {
+                "name": "триллер"
+            }
+        ]
+    },
+    {
+        "id": 5627240,
+        "name": "Подземелья Чикен Карри-1. Башня Колдуна",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2020,
+        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
+        "genres": [
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5629312,
+        "name": "Подземелья Чикен Карри-11. Оазис Шиш Кебаб",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2022,
+        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
+        "genres": [
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5629311,
+        "name": "Подземелья Чикен Карри-10. Храм Юмора",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2022,
+        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
+        "genres": [
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
+        "id": 5627241,
+        "name": "Подземелья Чикен Карри-2. Новогоднее приключение",
+        "alternativeName": null,
+        "enName": null,
+        "year": 2021,
+        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
+        "genres": [
+            {
+                "name": "комедия"
+            }
+        ]
+    },
+    {
         "id": 5647498,
         "name": null,
         "alternativeName": "Deadbolt",
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 5.4,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "ужасы"
@@ -22,6 +162,14 @@
         "enName": null,
         "year": 2023,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 6.8,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "документальный"
@@ -38,6 +186,14 @@
         "enName": null,
         "year": 2023,
         "description": "Международный фестивальный оркестр Utopia, в котором принимают участие 116 музыкантов из 30 стран мира.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/2bc9660d-4664-41d6-a135-b0800d3946b8/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/2bc9660d-4664-41d6-a135-b0800d3946b8/x1000"
@@ -55,6 +211,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 3.9,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "ужасы"
@@ -68,6 +232,14 @@
         "enName": null,
         "year": 2020,
         "description": "Австралия знаменита своими морскими пляжами, однако вся внутренняя территория континента представляет собой «лоскутное одеяло» из контрастных природных зон: тропических лесов, гор, сухих равнин, обширных болот и засушливых пустынь.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/eb8e64a7-817d-41ab-8745-36da29f34b54/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/eb8e64a7-817d-41ab-8745-36da29f34b54/x1000"
@@ -85,6 +257,14 @@
         "enName": null,
         "year": 2022,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -98,6 +278,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 5.1,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4486454/3c3f27ec-c6c8-409a-897c-2e88671c779c/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486454/3c3f27ec-c6c8-409a-897c-2e88671c779c/x1000"
@@ -118,6 +306,14 @@
         "enName": null,
         "year": 2023,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 7.1,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "боевик"
@@ -131,6 +327,14 @@
         "enName": null,
         "year": 2024,
         "description": "Хозяюшками в «Яндексе» называют отдел, отвечающий за кафетерии, зоны отдыха и многое другое, что составляет знаменитую домашнюю атмосферу офисов компании. Чего только нет в этих офисных кофе-пойнтах и буфетах — и появляется это все по расписанию, в срок, в сотнях зданий в десятках городов. В фильме хозяюшки рассказывают о том, как проходят их дни и как устроена их заботливая работа.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/4001c736-3ad2-4527-ae78-3499d236735c/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/4001c736-3ad2-4527-ae78-3499d236735c/x1000"
@@ -151,6 +355,14 @@
         "enName": null,
         "year": 2024,
         "description": "Лучшие команды мира собрались в Дубае на заключительном LAN-турнире года по CS2 — они приехали, чтобы встретиться с давними соперниками, заявить о себе или остаться в статусе лидера. Чемпионы мейджоров FalleN и Snax, а также nafany, KaiR0N- и chopper рассказывают о том, за что любят игру, как справляются с поражениями и что заставляет их из раза в раз выходить на новый раунд. Индустрия киберспорта еще недавно была сообществом энтузиастов, но сегодня она полна букмекерских денег и серьезных контрактов.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10703859/de8e9f84-4472-4b39-a7bb-48ab006ffe1d/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703859/de8e9f84-4472-4b39-a7bb-48ab006ffe1d/x1000"
@@ -171,6 +383,14 @@
         "enName": null,
         "year": 2024,
         "description": "В 2020 году режиссер Андрей Натоцинский приехал в Сухум, и город встретил его темнотой: ни на центральной площади, ни вокруг не горели фонари. Узнав, что веерные отключения электричества связывают с криптомайнерами, которых в Абхазию привлекла дешевая электроэнергия, Натоцинский вернулся со съемочной группой. Чтобы разобраться, как устроен контраст между активной добычей криптовалюты и общей разрухой, обрамленной дикими пейзажами, за три года он провел четыре съемочных экспедиции. Однако «Край ночи» — это фильм не о майнерах, вернее, не столько о них, сколько вообще о регионе, который до сих пор не оправился от войны 92-93 годов, последовавших конфликтов и экономической катастрофы. Погружаясь в местную историю, разговаривая с самыми разными людьми, наблюдая приход и уход майнеров, Натоцинский старается создать объективную — насколько это возможно — картину жизни в Абхазии. Режиссер фокусируется на том, чтобы задавать вопросы, отдавая право делать заявления своим героям, и хотя его фильм снят нарочито живописно, чувства, которые он оставляет, вряд ли будут легкими.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10809116/66950c96-be7d-4d5c-b92f-a0aa5c4219fa/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10809116/66950c96-be7d-4d5c-b92f-a0aa5c4219fa/x1000"
@@ -183,6 +403,14 @@
         "enName": null,
         "year": 2023,
         "description": "Завод «Дымов Керамика» и развернувшаяся вокруг него культурная жизнь стали неотъемлемой частью Суздаля — многие туристы удивляются тому, что еще двадцать лет назад ничего этого не было. Авторы снимают сооснователей завода Вадима Дымова и Евгению Зеленскую в мастерских и в быту и расспрашивают их, как они пришли к предпринимательству, чем вдохновляются и каково быть партнерами в бизнесе и в жизни. Из этих разговоров, очень живых, простых и открытых, складывается портрет людей, настолько увлеченных своим делом, что становится ясно, откуда взялась та самая атмосфера места, вовлекающего в свою орбиту так много людей и меняющего атмосферу города.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/28f32651-2f45-4154-804d-70162f494feb/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/28f32651-2f45-4154-804d-70162f494feb/x1000"
@@ -200,6 +428,14 @@
         "enName": null,
         "year": 2023,
         "description": "Вы могли слышать о проекте «Сад им.» художника и куратора Артема Филатова — открытом мемориальном саде при частном крематории в Нижнем Новгороде. Туда можно прийти ногами, чтобы послушать звуковую инсталляцию или побыть в пространстве тихой рефлексии, а можно посетить это место виртуально — и посвятить одно из растений в саду кому-то из ушедших близких. Артем тесно связывает свою практику с историей Нижнего Новгорода, но при этом ставит вопросы, выходящие за рамки одного города и вообще нашего времени — он стремится создавать искусство, которое говорит о жизни и смерти и устремлено в будущее, по-новому раскрываясь для следующих поколений. В фильме Филатов рассказывает о «Саде» и других своих работах, а также об идеях, стоящих за ними.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/50828dc0-7983-4d1e-bde6-8e360a643243/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/50828dc0-7983-4d1e-bde6-8e360a643243/x1000"
@@ -217,6 +453,14 @@
         "enName": null,
         "year": 2023,
         "description": "Незрячий пенсионер Илья планирует пробежать марафон за среднее для зрячих атлетов время — четыре с половиной часа. Молодой тренер Дима помогает ему правильно подойти к делу: выдержать темп, рассчитать нагрузку, продержаться до финиша. За 15 минут, которые длится фильм, мы увидим весь диапазон эмоций между ними, от раздражения до искренней поддержки, а также узнаем многое об Илье: к чему он стремится, когда перестал видеть, что в жизни он считает важным, а что — чепухой. Режиссер снимает героев на зернистую черно-белую пленку, перемежая пробежки и разговоры сюрреалистичными, фантазийными портретными кадрами, отделяет диалог от картинки и прошивают фильм пульсирующей звуковой дорожкой, пересобирает материал как коллаж, создавая небанальную и удивительно цельную эстетику. Получается кино, в котором гармонично сложилась редкая комбинация: чувство стиля и чувство юмора, история и портрет, визуальная красота и абсолютно живая фактура.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10703959/b6dc03c7-9827-4d61-9611-292eb664b737/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703959/b6dc03c7-9827-4d61-9611-292eb664b737/x1000"
@@ -234,6 +478,14 @@
         "enName": null,
         "year": 2024,
         "description": "После освобождения из тюрьмы Кайрат сразу бросается на поиски способа спасти свою больную мать. Диагноз врачей оказывается безжалостным: чтобы спасти жизнь матери, ему необходимо достать дорогостоящее медицинское оборудование из Китая и лекарства на миллион долларов. Без денег и постоянной работы Кайрат обращается за помощью к бывшим олигархам, которые также находятся в тюрьме. Они соглашаются помочь, но с условием: Кайрат должен доставить грузовик зерна в Китай. Встав перед выбором, Кайрат соглашается.\nВ пути через границу Китая Кайрата и его водителя останавливает и нападает неизвестная преступная группа. Они оба оказываются без сознания. Когда Кайрат приходит в себя, он обнаруживает себя в китайской «Школе Кунг-фу». Местный житель объясняет ему, что спас его и водителя, потому что их машина загорелась. Кайрат тут же связывается с олигархами в Казахстане, чтобы сообщить о произошедшем. Они признают, что в пропавшем грузе находилось ценное золото, и требуют его найти, угрожая, что иначе он больше не увидит свою мать. Теперь Кайрату предстоит раскрыть загадку похищения груза. Ему помогают учителя и ученики школы кунг-фу.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/784e5d41-13fc-49cb-aed2-438f847f2d01/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/784e5d41-13fc-49cb-aed2-438f847f2d01/x1000"
@@ -254,6 +506,14 @@
         "enName": null,
         "year": 2024,
         "description": "В отчаянной попытке обеспечить будущее своему ребенку иммигрантка без документов устраивается на работу сиделкой к пожилому мужчине, не подозревая, что он скрывает жуткую тайну.",
+        "rating": {
+            "kp": 0,
+            "imdb": 4.1,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/12840516-f584-4c34-8f7e-225de40e986c/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/12840516-f584-4c34-8f7e-225de40e986c/x1000"
@@ -271,6 +531,14 @@
         "enName": null,
         "year": 2020,
         "description": "Культура Японии поражает воображение: от праздника цветения сакуры до ультрасовременных городов. Но дикая природа Японии не менее удивительна. На 6852 островах, входящих в состав Японии и располагающихся в разных климатических зонах, обитает более 130 видов млекопитающих и 600 видов птиц.",
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/de3029b3-3892-418e-9f92-92fa691bf573/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/de3029b3-3892-418e-9f92-92fa691bf573/x1000"
@@ -288,6 +556,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -305,6 +581,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -321,6 +605,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -334,6 +626,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -347,6 +647,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "триллер"
@@ -363,6 +671,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -376,6 +692,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -389,6 +713,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -402,6 +734,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -415,6 +755,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -431,6 +779,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "биография"
@@ -444,6 +800,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "мелодрама"
@@ -460,6 +824,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -476,6 +848,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "триллер"
@@ -492,6 +872,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -505,6 +893,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -518,6 +914,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -534,6 +938,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/cd1fdac5-c877-4227-9884-de09888683e6/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/cd1fdac5-c877-4227-9884-de09888683e6/x1000"
@@ -551,6 +963,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/d7cdbc98-7529-4431-9c61-b08ab4715e4b/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/d7cdbc98-7529-4431-9c61-b08ab4715e4b/x1000"
@@ -568,6 +988,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "триллер"
@@ -584,6 +1012,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/89ac3643-30e0-4f67-9675-29ba16a06ecc/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/89ac3643-30e0-4f67-9675-29ba16a06ecc/x1000"
@@ -601,6 +1037,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -614,6 +1058,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -627,6 +1079,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -640,6 +1100,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -656,6 +1124,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -669,87 +1145,14 @@
         "enName": null,
         "year": 2024,
         "description": null,
-        "genres": [
-            {
-                "name": "короткометражка"
-            }
-        ]
-    },
-    {
-        "id": 5630891,
-        "name": null,
-        "alternativeName": "Plevel",
-        "enName": null,
-        "year": 2024,
-        "description": null,
-        "genres": [
-            {
-                "name": "короткометражка"
-            }
-        ]
-    },
-    {
-        "id": 5630892,
-        "name": null,
-        "alternativeName": "Terminal",
-        "enName": null,
-        "year": 2024,
-        "description": null,
-        "genres": [
-            {
-                "name": "короткометражка"
-            }
-        ]
-    },
-    {
-        "id": 5630889,
-        "name": null,
-        "alternativeName": "Forest of Echos",
-        "enName": null,
-        "year": 2024,
-        "description": null,
-        "genres": [
-            {
-                "name": "короткометражка"
-            }
-        ]
-    },
-    {
-        "id": 5630893,
-        "name": null,
-        "alternativeName": "Crow Man",
-        "enName": null,
-        "year": 2024,
-        "description": null,
-        "genres": [
-            {
-                "name": "короткометражка"
-            }
-        ]
-    },
-    {
-        "id": 5630890,
-        "name": null,
-        "alternativeName": "It's Not Time for Pop",
-        "enName": null,
-        "year": 2024,
-        "description": null,
-        "genres": [
-            {
-                "name": "короткометражка"
-            },
-            {
-                "name": "драма"
-            }
-        ]
-    },
-    {
-        "id": 5630888,
-        "name": null,
-        "alternativeName": "Echoes",
-        "enName": null,
-        "year": 2024,
-        "description": null,
+        "rating": {
+            "kp": 0,
+            "imdb": 0,
+            "filmCritics": 0,
+            "russianFilmCritics": 0,
+            "await": 0
+        },
+        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
