@@ -13,7 +13,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -40,7 +39,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": "r",
         "genres": [
             {
                 "name": "триллер"
@@ -61,7 +59,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -82,7 +79,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -103,7 +99,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -124,7 +119,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -145,7 +139,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "ужасы"
@@ -169,7 +162,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "документальный"
@@ -193,7 +185,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/2bc9660d-4664-41d6-a135-b0800d3946b8/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/2bc9660d-4664-41d6-a135-b0800d3946b8/x1000"
@@ -218,7 +209,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "ужасы"
@@ -239,7 +229,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/eb8e64a7-817d-41ab-8745-36da29f34b54/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/eb8e64a7-817d-41ab-8745-36da29f34b54/x1000"
@@ -264,7 +253,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -285,7 +273,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4486454/3c3f27ec-c6c8-409a-897c-2e88671c779c/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4486454/3c3f27ec-c6c8-409a-897c-2e88671c779c/x1000"
@@ -313,7 +300,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "боевик"
@@ -334,7 +320,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/4001c736-3ad2-4527-ae78-3499d236735c/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/4001c736-3ad2-4527-ae78-3499d236735c/x1000"
@@ -362,7 +347,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10703859/de8e9f84-4472-4b39-a7bb-48ab006ffe1d/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703859/de8e9f84-4472-4b39-a7bb-48ab006ffe1d/x1000"
@@ -390,7 +374,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10809116/66950c96-be7d-4d5c-b92f-a0aa5c4219fa/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10809116/66950c96-be7d-4d5c-b92f-a0aa5c4219fa/x1000"
@@ -410,7 +393,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/28f32651-2f45-4154-804d-70162f494feb/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/28f32651-2f45-4154-804d-70162f494feb/x1000"
@@ -435,7 +417,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/50828dc0-7983-4d1e-bde6-8e360a643243/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/50828dc0-7983-4d1e-bde6-8e360a643243/x1000"
@@ -460,7 +441,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10703959/b6dc03c7-9827-4d61-9611-292eb664b737/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10703959/b6dc03c7-9827-4d61-9611-292eb664b737/x1000"
@@ -485,7 +465,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/784e5d41-13fc-49cb-aed2-438f847f2d01/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/784e5d41-13fc-49cb-aed2-438f847f2d01/x1000"
@@ -513,7 +492,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/12840516-f584-4c34-8f7e-225de40e986c/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/12840516-f584-4c34-8f7e-225de40e986c/x1000"
@@ -538,7 +516,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/9784475/de3029b3-3892-418e-9f92-92fa691bf573/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/9784475/de3029b3-3892-418e-9f92-92fa691bf573/x1000"
@@ -563,7 +540,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "комедия"
@@ -588,7 +564,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -612,7 +587,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -633,7 +607,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -654,7 +627,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "триллер"
@@ -678,7 +650,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -699,7 +670,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -720,7 +690,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -741,7 +710,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -762,7 +730,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -786,7 +753,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "биография"
@@ -807,7 +773,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "мелодрама"
@@ -831,7 +796,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -855,7 +819,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "триллер"
@@ -879,7 +842,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -900,7 +862,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "драма"
@@ -921,7 +882,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -945,7 +905,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10592371/cd1fdac5-c877-4227-9884-de09888683e6/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10592371/cd1fdac5-c877-4227-9884-de09888683e6/x1000"
@@ -970,7 +929,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/4483445/d7cdbc98-7529-4431-9c61-b08ab4715e4b/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/4483445/d7cdbc98-7529-4431-9c61-b08ab4715e4b/x1000"
@@ -995,7 +953,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "триллер"
@@ -1019,7 +976,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "poster": {
             "url": "https://image.openmoviedb.com/kinopoisk-images/10812607/89ac3643-30e0-4f67-9675-29ba16a06ecc/orig",
             "previewUrl": "https://image.openmoviedb.com/kinopoisk-images/10812607/89ac3643-30e0-4f67-9675-29ba16a06ecc/x1000"
@@ -1044,7 +1000,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -1065,7 +1020,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -1086,7 +1040,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -1107,7 +1060,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -1131,7 +1083,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"
@@ -1152,7 +1103,6 @@
             "russianFilmCritics": 0,
             "await": 0
         },
-        "ratingMpaa": null,
         "genres": [
             {
                 "name": "короткометражка"

@@ -1,19 +1,21 @@
 import React from 'react'
 import Movie from '../Types'
+import BasicRating from '../BasicRating';
 
 export default function MoviePreview(props: { movie: Movie }) {
     const movie = props.movie;
     return (
         <div className='movie-container'>
-            <div>
+            <div className='preview-poster-container'>
                 {
-                    movie.poster?.previewUrl ? <img src={movie.poster?.previewUrl} alt="" /> : <img src="/src/assets/broken-img.png" alt="" />
+                    movie.poster?.previewUrl ? <img className='poster-preview' src={movie.poster?.previewUrl} alt="" /> : <img src="/src/assets/broken-img.png" alt="" />
                 }
             </div>
-            <div>
-                <p>{movie.name ? movie.name : movie.alternativeName ? movie.alternativeName : movie.enName}</p>
+            <div className='preview-info-container'>
+                <h3>{movie.name ? movie.name : movie.alternativeName ? movie.alternativeName : movie.enName}</h3>
                 <p>{movie.year}</p>
-                <p>{ }</p>
+                <p>{movie.rating.kp}</p>
+                <BasicRating />
             </div>
         </div>
     )

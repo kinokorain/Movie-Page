@@ -11,7 +11,7 @@ export default function MainPage() {
     const [currentMovies, setCurrentMovies] = useState<Movie[]>();
     useEffect(() => {
         async function getMovies() {
-            // const movieList = await fetch("https://api.kinopoisk.dev/v1.4/movie?type=movie&page=1&limit=50&selectFields=id&selectFields=name&selectFields=enName&selectFields=alternativeName&selectFields=description&selectFields=year&selectFields=poster&selectFields=genres&selectFields=rating&selectFields=ratingMpaa&type=movie", {
+            // const movieList = await fetch("https://api.kinopoisk.dev/v1.4/movie?type=movie&page=1&limit=50&selectFields=id&selectFields=name&selectFields=enName&selectFields=alternativeName&selectFields=description&selectFields=year&selectFields=poster&selectFields=genres&selectFields=rating&type=movie", {
             //     method: "GET",
             //     headers: {
             //         "X-API-KEY": "deleted"
@@ -27,7 +27,7 @@ export default function MainPage() {
             //     .catch(error => {
             //         console.log("Error", error);
             //     })
-            const movieList = data as Movie[];
+            const movieList = data as unknown as Movie[];
             console.log(movieList.length);
             setCurrentMovies(movieList);
         }
