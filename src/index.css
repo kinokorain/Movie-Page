@@ -70,17 +70,17 @@ h1 {
 
 .MainPage-container {
   display: flex;
-  outline: solid 1px coral;
+  /* outline: solid 1px coral; */
 
 }
 
 aside {
-  outline: solid 2px cornflowerblue;
+  /* outline: solid 2px cornflowerblue; */
 
 }
 
 .movie-list-container {
-  outline: solid 2px cornflowerblue;
+  /* outline: solid 2px cornflowerblue; */
   margin: 0 auto;
 }
 

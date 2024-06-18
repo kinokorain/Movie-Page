@@ -5,7 +5,6 @@ import Movie from '../Types'
 import data from "../../public/data.json";
 import Aside from './Aside';
 
-
 export default function MainPage() {
     const [page, setPage] = useState<number>(1);
     const [searchInputText, setSearchInputText] = useState<string>("");
@@ -13,7 +12,6 @@ export default function MainPage() {
     const [years, setYears] = useState<[number, number]>([1990, 2024]);
     const [rating, setRating] = useState<[number, number]>([0, 10]);
     const [currentMovies, setCurrentMovies] = useState<Movie[]>();
-
 
     function constructUrl(flag: number) {
         let baseUrl = "https://api.kinopoisk.dev/v1.4/movie";
@@ -90,7 +88,7 @@ export default function MainPage() {
     }
 
     function handleSearch() {
-
+        getMovies(constructUrl(1));
     }
 
     return (
@@ -98,6 +96,7 @@ export default function MainPage() {
             <h1>Cinema</h1>
             <label htmlFor="movie-search">Search the site:</label>
             <input type="search" id="movie-search" name="movie-search" onChange={handleSearchInput} />
+            <button onClick={handleSearch}>search</button>
             <div className='MainPage-container'>
                 <Aside />
                 <div className='movie-list-container'>
