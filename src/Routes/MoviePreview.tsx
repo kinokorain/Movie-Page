@@ -14,7 +14,7 @@ export default function MoviePreview(props: { movie: Movie }) {
             <div className='preview-info-container'>
                 <h3>{movie.name ? movie.name : movie.alternativeName ? movie.alternativeName : movie.enName}</h3>
                 <p>{movie.year}</p>
-                <p>{movie.rating.kp}</p>
+                <p>{movie.rating.imdb}</p>
                 {/* <BasicRating /> */}
             </div>
         </div>

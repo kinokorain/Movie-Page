@@ -11,7 +11,7 @@ type Movie = {
     },
     rating: {
         kp: number | null,
-        imbd: number | null,
+        imdb: number | null,
         tmdb: number | null,
         filmCritics: number | null,
         russianFilmCritics: number | null,
