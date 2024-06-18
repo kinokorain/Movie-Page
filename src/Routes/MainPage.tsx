@@ -7,6 +7,7 @@ import YearFiltering from './YearFiltering';
 import GenreFilter from './GenreFilter';
 import { get } from 'http';
 import RatingFilter from './RatingFilter';
+import { count } from 'console';
 
 export default function MainPage() {
     const [page, setPage] = useState<number>(1);
@@ -82,8 +83,16 @@ export default function MainPage() {
         getMovies(constructUrl(2));
     }, [])
 
-    function handlePageChange() {
+    function handlePageIncrement() {
         setPage(page + 1);
+        getMovies(constructUrl(2));
+    }
+
+    function handlePageDecrement() {
+        if (page === 0) {
+            return;
+        }
+        setPage(page - 1);
         getMovies(constructUrl(2));
     }
 
@@ -180,7 +189,8 @@ export default function MainPage() {
                     }
                 </div>
             </div>
-            <button onClick={handlePageChange}>{">"}</button>
+            {page !== 1 && <button onClick={handlePageDecrement}>{"<"}</button>}
+            <button onClick={handlePageIncrement}>{">"}</button>
         </>
     )
 }
