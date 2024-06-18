@@ -2,6 +2,7 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  font-size: 20px;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -58,15 +59,43 @@ h6 {
 /* border-color: #646cff; */
 
 /* MainPage */
+.MainPage-container {
+  /* max-width: 70%; */
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.MainPage-container {
+  display: flex;
+  outline: solid 1px coral;
+
+}
+
+aside {
+  outline: solid 2px cornflowerblue;
+
+}
+
+.movie-list-container {
+  outline: solid 2px cornflowerblue;
+  margin: 0 auto;
+}
 
 /* MoviePreview */
+
+
 .movie-container {
+  margin-block: 3em;
   display: flex;
   justify-content: flex-start;
   /* outline: solid 1px coral; */
   gap: 1em;
+  border: solid #fff 3px;
+  padding: 1em;
 }
-
 
 .preview-info-container {
   /* outline: solid 1px coral; */

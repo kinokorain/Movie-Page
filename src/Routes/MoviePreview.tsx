@@ -1,6 +1,6 @@
-import React from 'react'
+
 import Movie from '../Types'
-import BasicRating from '../BasicRating';
+// import BasicRating from '../BasicRating';
 
 export default function MoviePreview(props: { movie: Movie }) {
     const movie = props.movie;
@@ -15,7 +15,7 @@ export default function MoviePreview(props: { movie: Movie }) {
                 <h3>{movie.name ? movie.name : movie.alternativeName ? movie.alternativeName : movie.enName}</h3>
                 <p>{movie.year}</p>
                 <p>{movie.rating.kp}</p>
-                <BasicRating />
+                {/* <BasicRating /> */}
             </div>
         </div>
     )
