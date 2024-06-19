@@ -168,6 +168,14 @@ export default function MainPage() {
         getMovies(constructUrl(2));
     }
 
+    function handleClearing() {
+        console.log("in handleClearing");
+        setYears([1990, 2024]);
+        setRating([0, 10]);
+        setGenres([]);
+        constructUrl(2);
+    }
+
     return (
         <>
             <div className='top-bar'>
@@ -185,19 +193,21 @@ export default function MainPage() {
                         <GenreFilter getCheckedGenres={getCheckedGenres} />
                         <RatingFilter handleRatingFilter={handleRatingFilter} />
                         <button className='button-in-filters' onClick={handleFiltering}>Поиск с учетом фильтров</button>
-                        <input id="reset-button" type="reset" onClick={handleFiltering} />
+                        <input id="reset-button" type="reset" onClick={handleClearing} />
                     </form>
                 </aside>
                 <div className='movie-list-container'>
                     {
-                        !currentMovies ? <p>Hi</p> : currentMovies.map((movie) => {
+                        !currentMovies || currentMovies.length === 0 ? <p>По вашему запросу фильмов не нашлось!</p> : currentMovies.map((movie) => {
                             return <MoviePreview movie={movie} />
                         })
                     }
                 </div>
             </div>
-            {page !== 1 && <button onClick={handlePageDecrement}>{"<"}</button>}
-            <button onClick={handlePageIncrement}>{">"}</button>
+            <div className='change-page-button-container'>
+                {page !== 1 && <button className='change-page-button' onClick={handlePageDecrement}><i className="fa-solid fa-arrow-left"></i></button>}
+                <button className='change-page-button' onClick={handlePageIncrement}><i className="fa-solid fa-arrow-right"></i></button>
+            </div>
         </>
     )
 }
