@@ -277,7 +277,6 @@ aside {
 .movie-container {
   margin-bottom: 2em;
   display: flex;
-  /* outline: solid 1px coral; */
   gap: 1em;
   border: solid var(--text-color) 2px;
   padding: 1em;
@@ -294,18 +293,13 @@ i {
 }
 
 .preview-info-container {
-  /* outline: solid 1px coral; */
   margin: 0;
   padding: 0;
 }
 
 .preview-poster-container {
-  /* outline: solid 1px coral; */
   max-width: 15%;
-
 }
-
-.poster-preview {}
 
 /* single movie Page  */
 
@@ -353,6 +347,10 @@ i {
 
 
 @media screen and (max-width:1200px) {
+  :root {
+    font-size: 18px;
+  }
+
   .movie-container {
     flex-direction: column;
     align-items: center;

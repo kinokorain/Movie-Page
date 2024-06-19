@@ -2,10 +2,8 @@ import React, { useState } from 'react'
 import { useEffect } from 'react'
 import MoviePreview from './MoviePreview';
 import Movie from '../Types'
-import data from "../../public/data.json";
 import YearFiltering from './YearFiltering';
 import GenreFilter from './GenreFilter';
-import { get } from 'http';
 import RatingFilter from './RatingFilter';
 
 export default function MainPage() {
@@ -16,12 +14,8 @@ export default function MainPage() {
     const [rating, setRating] = useState<[number, number]>([0, 10]);
     const [currentMovies, setCurrentMovies] = useState<Movie[]>();
 
-    const filterForm = document.querySelector('#filter-form');
-    filterForm?.addEventListener("submit", (e => {
-        e.preventDefault();
-        //so that the form button doesn't reset the whole page
-    }));
 
+    //function for constructing url of request to API
     function constructUrl(flag: number) {
         let baseUrl = "https://api.kinopoisk.dev/v1.4/movie";
         let limit = "?limit=50";
@@ -41,45 +35,27 @@ export default function MainPage() {
         }
         return requestUrl;
     }
-    // console.log("url from func", constructUrl(2));
 
     async function getMovies(requestUrl: string) {
         console.log(requestUrl);
-        // the actual code
-        // const movieList = await fetch(requestUrl, {
-        //     method: "GET",
-        //     headers: {
-        //         "X-API-KEY": "44AZYQT-PP34JDX-HH7WVR9-ZBA128D"
-        //     }
-        // })
-        //     .then(result =>
-        //         result.json()
-        //     )
-        //     .then(data => {
-        //         console.log(data.docs);
-        //         return data.docs;
-        //     })
-        //     .catch(error => {
-        //         console.log("Error", error);
-        //     })
-
-        // code for testing
-        const movieList = await fetch("data.json")
+        const movieList = await fetch(requestUrl, {
+            method: "GET",
+            headers: {
+                "X-API-KEY": "44AZYQT-PP34JDX-HH7WVR9-ZBA128D"
+            }
+        })
             .then(result =>
                 result.json()
             )
             .then(data => {
-                // console.log(data);
-                return data;
+                console.log(data.docs);
+                return data.docs;
             })
             .catch(error => {
                 console.log("Error", error);
             })
 
-        //old testing method
-        // const movieList = data as unknown as Movie[];
 
-        // console.log(movieList.length);
         console.log("made request");
         setCurrentMovies(movieList);
     }
@@ -89,6 +65,9 @@ export default function MainPage() {
         getMovies(constructUrl(2));
     }, [])
 
+
+
+    //handling state changes
     useEffect(() => {
         console.log("in useEffect for page")
         getMovies(constructUrl(2));
@@ -188,9 +167,11 @@ export default function MainPage() {
         });
     }
 
-    function toBottom() {
-        window.scrollTo();
-    }
+    //so that the form button doesn't reset the whole page
+    const filterForm = document.querySelector('#filter-form');
+    filterForm?.addEventListener("submit", (e => {
+        e.preventDefault();
+    }));
 
     return (
         <div className='wrapper'>
