@@ -10,7 +10,6 @@ export default function MoviePreview(props: { movie: Movie }) {
             state={movie}
         >
             <div className='movie-container'>
-
                 <div className='preview-poster-container'>
                     {
                         movie.poster?.previewUrl ? <img className='poster-preview' src={movie.poster?.previewUrl} alt="" /> : <img src="/src/assets/broken-img.png" alt="" />
@@ -19,10 +18,8 @@ export default function MoviePreview(props: { movie: Movie }) {
                 <div className='preview-info-container'>
                     <h3>{movie.name ? movie.name : movie.alternativeName ? movie.alternativeName : movie.enName}</h3>
                     <p>{movie.year}</p>
-                    <p>{movie.rating.imdb}</p>
-                    {/* <BasicRating /> */}
+                    <p>Рейтинг imdb: {movie.rating.imdb} <i className="fa-solid fa-star"></i> </p>
                 </div>
-
             </div >
         </Link>
     )

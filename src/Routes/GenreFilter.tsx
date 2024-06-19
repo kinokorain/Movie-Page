@@ -7,10 +7,11 @@ export default function GenreFilter(props: { getCheckedGenres: () => void }) {
 
     return (
         <div>
+            <h3 className='genre-heading'>Жанры</h3>
             {genreList.map((genre) => {
-                return <div>
-                    <input onChange={props.getCheckedGenres} type="checkbox" data-genre={genre} id={'checkbox-' + genre} className='genre-checkbox' />
-                    <span>{genre}</span>
+                return <div className='genre-filter'>
+                    <input name='genre-checkbox' onChange={props.getCheckedGenres} type="checkbox" data-genre={genre} id={'checkbox-' + genre} className='genre-checkbox' />
+                    <label htmlFor={'checkbox-' + genre}>{genre}</label>
                 </div>
             })}
         </div>

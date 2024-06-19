@@ -7,7 +7,6 @@ import YearFiltering from './YearFiltering';
 import GenreFilter from './GenreFilter';
 import { get } from 'http';
 import RatingFilter from './RatingFilter';
-import { count } from 'console';
 
 export default function MainPage() {
     const [page, setPage] = useState<number>(1);
@@ -17,11 +16,17 @@ export default function MainPage() {
     const [rating, setRating] = useState<[number, number]>([0, 10]);
     const [currentMovies, setCurrentMovies] = useState<Movie[]>();
 
+    const filterForm = document.querySelector('#filter-form');
+    filterForm?.addEventListener("submit", (e => {
+        e.preventDefault();
+        //so that the form button doesn't reset the whole page
+    }));
+
     function constructUrl(flag: number) {
         let baseUrl = "https://api.kinopoisk.dev/v1.4/movie";
         let limit = "?limit=50";
         let search = "/search"
-        let baseParameters = "&type=movie&selectFields=id&selectFields=name&selectFields=enName&selectFields=alternativeName&selectFields=description&selectFields=year&selectFields=poster&selectFields=genres&selectFields=rating";
+        let baseParameters = "&type=movie&selectFields=id&selectFields=name&selectFields=enName&selectFields=alternativeName&selectFields=description&selectFields=year&selectFields=poster&selectFields=genres&selectFields=rating&notNullFields=poster.url&notNullFields=rating.imdb&notNullFields=description";
         let requestUrl: string;
 
         if (flag === 1) {
@@ -40,7 +45,7 @@ export default function MainPage() {
 
     async function getMovies(requestUrl: string) {
         console.log(requestUrl);
-        //the actual code
+        // the actual code
         // const movieList = await fetch(requestUrl, {
         //     method: "GET",
         //     headers: {
@@ -83,17 +88,20 @@ export default function MainPage() {
         getMovies(constructUrl(2));
     }, [])
 
+    useEffect(() => {
+        console.log("in useEffect for page")
+        getMovies(constructUrl(2));
+    }, [page])
+
     function handlePageIncrement() {
         setPage(page + 1);
-        getMovies(constructUrl(2));
     }
 
     function handlePageDecrement() {
-        if (page === 0) {
+        if (page === 1) {
             return;
         }
         setPage(page - 1);
-        getMovies(constructUrl(2));
     }
 
     function handleSearchInput(e: any) {
@@ -160,27 +168,26 @@ export default function MainPage() {
         getMovies(constructUrl(2));
     }
 
-    function clearInputs() {
-        document.getElementsByClassName("genre-checkbox")
-    }
-
     return (
         <>
-            <h1>Cinema</h1>
-            <label htmlFor="movie-search">Search the site:</label>
-            <input type="search" id="movie-search" name="movie-search" onChange={handleSearchInput} />
-            <button onClick={handleSearch}>search</button>
+            <div className='top-bar'>
+                <h1 className='accent-color'>Cinema</h1>
+                <div className='searchInputAndButtonContainer'>
+                    <input placeholder='Название фильма' type="search" id="movie-search" name="movie-search" onChange={handleSearchInput} />
+                    <button id='search-button' onClick={handleSearch}>Поиск</button>
+                </div>
+            </div>
             <div className='MainPage-container'>
                 <aside>
-                    <form action="">
+                    <form id="filter-form">
+                        <h2 >Фильтры:</h2>
                         <YearFiltering handleYearFilter={handleYearFilter} />
                         <GenreFilter getCheckedGenres={getCheckedGenres} />
                         <RatingFilter handleRatingFilter={handleRatingFilter} />
-                        <button onClick={handleFiltering}>Поиск с учетом фильтров</button>
-                        <input type="reset" />
+                        <button className='button-in-filters' onClick={handleFiltering}>Поиск с учетом фильтров</button>
+                        <input id="reset-button" type="reset" onClick={handleFiltering} />
                     </form>
                 </aside>
-
                 <div className='movie-list-container'>
                     {
                         !currentMovies ? <p>Hi</p> : currentMovies.map((movie) => {
