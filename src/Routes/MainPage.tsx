@@ -85,12 +85,17 @@ export default function MainPage() {
     }
 
     useEffect(() => {
+        window.scrollTo(0, 0);
         getMovies(constructUrl(2));
     }, [])
 
     useEffect(() => {
         console.log("in useEffect for page")
         getMovies(constructUrl(2));
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth",
+        });
     }, [page])
 
     function handlePageIncrement() {
@@ -176,8 +181,22 @@ export default function MainPage() {
         constructUrl(2);
     }
 
+    function backToTop() {
+        window.scrollTo({
+            top: 0,
+            behavior: "smooth",
+        });
+    }
+
+    function toBottom() {
+        window.scrollTo();
+    }
+
     return (
-        <>
+        <div className='wrapper'>
+            <button onClick={backToTop} className='button-to-top'><i className="fa-solid fa-arrow-up"></i></button>
+            <button onClick={backToTop} className='button-to-top'><i className="fa-solid fa-arrow-up"></i></button>
+
             <div className='top-bar'>
                 <h1 className='accent-color'>Cinema</h1>
                 <div className='searchInputAndButtonContainer'>
@@ -208,6 +227,6 @@ export default function MainPage() {
                 {page !== 1 && <button className='change-page-button' onClick={handlePageDecrement}><i className="fa-solid fa-arrow-left"></i></button>}
                 <button className='change-page-button' onClick={handlePageIncrement}><i className="fa-solid fa-arrow-right"></i></button>
             </div>
-        </>
+        </div>
     )
 }

@@ -174,12 +174,24 @@ h1 {
   margin-bottom: 2em;
 }
 
+.button-to-top {
+  position: fixed;
+  bottom: 5%;
+  left: 3%;
+  z-index: 900;
+  font-size: 2em;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+
 /* filter aside  */
 
 aside {
   background-color: var(--lighter-background-color);
   padding: 2em;
   padding-top: 1em;
+  width: 40%;
 }
 
 .genre-heading {
@@ -290,7 +302,10 @@ i {
 .preview-poster-container {
   /* outline: solid 1px coral; */
   max-width: 15%;
+
 }
+
+.poster-preview {}
 
 /* single movie Page  */
 
@@ -336,4 +351,31 @@ i {
   margin-bottom: 1em;
 }
 
-.description {}
+
+@media screen and (max-width:1200px) {
+  .movie-container {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .preview-poster-container {
+    min-width: 70%;
+  }
+
+  .top-part-movie-page {
+    flex-direction: column;
+    align-items: center;
+
+  }
+
+  .poster-container {
+    min-width: 60%;
+
+  }
+}
+
+@media screen and (max-width:800px) {
+  :root {
+    font-size: 16px;
+  }
+}
